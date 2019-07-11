@@ -21,12 +21,7 @@ Step 6: Set the trigger as time driver and set the time interval as 5 minutes
 
 ## Copyright
 
-This script is the property of Adjutas Cloud Technology.
+Feel free to use it and change it. 
 
 
-## Website
-
-http://gfw.adjutas.com
-
-https://sites.google.com/a/adjutas.com/google-apps-script/home
 
